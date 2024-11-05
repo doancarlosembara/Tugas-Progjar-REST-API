@@ -1,5 +1,3 @@
-Here's a structured README file for your Flask REST API project. You can copy and paste this into your `README.md` file.
-
 ````markdown
 # Tugas Progjar (REST API)
 
